@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of liufencn/flarum-reply-pin.** Not for installation: use [Packagist](https://packagist.org/packages/liufencn/flarum-reply-pin) or the [upstream repository](https://github.com/LiuFenCN/flarum-ext-reply-pin).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/liufencn-flarum-reply-pin/tree/archive/v1.0.0) · License: `AGPL-3.0-or-later` · Flarum: `^2.0.0`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/liufencn-flarum-reply-pin/tree/archive/v1.0.0) · License: `AGPL-3.0-or-later` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-10-15 | `^2.0.0` | [Browse](https://github.com/flarchive/liufencn-flarum-reply-pin/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/liufencn-flarum-reply-pin.json](https://github.com/flarchive/archive-index/blob/main/packages/liufencn-flarum-reply-pin.json)
 
