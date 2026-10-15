@@ -1,0 +1,32 @@
+{
+    "name": "liufencn/flarum-reply-pin",
+    "description": "帖子内楼层（回复）置顶：把讨论内任意一条回复钉到讨论顶部，并加图钉徽标。",
+    "type": "flarum-extension",
+    "license": "AGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Liufen",
+            "email": "792818521@qq.com",
+            "homepage": "https://bbs.cathi.cn"
+        }
+    ],
+    "require": {
+        "flarum/core": "^2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cathi\\ReplyPin\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "楼层置顶",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-thumbtack",
+                "backgroundColor": "#276bb0",
+                "color": "#fff"
+            }
+        }
+    }
+}

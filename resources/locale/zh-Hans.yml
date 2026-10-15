@@ -1,0 +1,11 @@
+cathi-reply-pin:
+  admin:
+    pin_reply_label: 置顶回复楼层
+  forum:
+    pin_button: 置顶回复
+    unpin_button: 取消置顶
+    pinned_title: 置顶回复
+    goto_floor: 跳到该楼层
+    load_failed: 置顶回复加载失败
+    no_permission: 你没有楼层置顶权限
+    operate_failed: 置顶操作失败
